@@ -2,4 +2,11 @@
 repositório criado para o desafio de projeto sobre Got/GitHub
 
 ## Links úteis
-[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+**[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)**  
+
+**Negrito** 
+
+*itálico*
+
+
+
