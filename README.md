@@ -1,12 +1,24 @@
-# do desafio de projetos sobre Git/GitHub da DIO
-repositório criado para o desafio de projeto sobre Got/GitHub
+# Desafio de projetos sobre Git/GitHub da DIO
+
+**repositório criado para o desafio de projetos sobre Git/GitHub**
+
+***
 
 ## Links úteis
-**[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)**  
 
-**Negrito** 
+- **[Git](https://git-scm.com/downloads)**
 
-*itálico*
++ **[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)**  
+
+---
+
+
+
+
+
+
+
+
 
 
 
