@@ -20,7 +20,7 @@ ___
 
 ### IFSULDEMINAS - Campos Machado
 
-**Agronomia com ênfase em Agroecologia **
+**Agronomia com ênfase em Agroecologia**
 
 ##### Status: Cursando
 
